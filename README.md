@@ -1,5 +1,5 @@
-# stranger-things
-Intro of the show Stranger Things in CSS
+# Stranger Things
+Stranger Things title sequence in CSS
 
 # Preview
 **https://devandromeda.github.io/stranger-things**
